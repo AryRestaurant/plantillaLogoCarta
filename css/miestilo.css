@@ -61,7 +61,7 @@ section.seccionContacto{>
     font-size: 1.3em;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1316px){
 	#txtLogo{
 		text-align: center;
 		padding-top: 3%;
@@ -72,12 +72,17 @@ section.seccionContacto{>
 	}
 
 	.izq{
+		margin: auto;
 		width: 100%;
 		float:center;
+		padding:0;
 	}
 
 	.der{
+		margin: auto;
+		margin-top: 30px;
 		width: 100%;
 		float:center;
+		padding:0;
 	}
 }
