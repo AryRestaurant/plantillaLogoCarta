@@ -8,6 +8,9 @@ section.seccionLogo{
 	padding-top: 8%;
 	text-align:center;
 }
+.imgLogo{
+	width: 60%;
+}
 #txtLogo{
 	padding-top: 3%;
 	padding-left: 28%;
@@ -54,17 +57,23 @@ thead{
 	font-family: "Lucida Console", "Courier New", monospace;
 }
 
-section.seccionContacto{>
+section.seccionContacto{
     padding: 2%;
-    color: #ffeedb;
     text-align: center;
-    font-size: 1.3em;
 }
 .logosContacto{
 	width: 7%;
 }
+a{
+	font-size: 1.4em;
+	text-decoration:none;
+	color: #ffeedb;
+}
 
 @media screen and (max-width: 1316px){
+	.imgLogo{
+		width: 100%;
+	}
 	#txtLogo{
 		text-align: center;
 		padding-top: 3%;
@@ -95,6 +104,9 @@ section.seccionContacto{>
 }
 
 @media screen and (max-width: 750px){
+	.imgLogo{
+		width: 100%;
+	}
 	#txtLogo{
 		text-align: center;
 		padding-top: 3%;
