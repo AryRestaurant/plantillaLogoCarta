@@ -61,7 +61,7 @@ section.seccionContacto{>
     font-size: 1.3em;
 }
 
-@media screen and (max-width: 900px){
+@media screen and (max-width: 1000px){
 	#txtLogo{
 		text-align: center;
 		padding-top: 3%;
