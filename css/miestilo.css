@@ -9,11 +9,11 @@ section.seccionLogo{
 	text-align:center;
 }
 #txtLogo{
-	padding-top: 2%;
+	padding-top: 3%;
 	padding-left: 28%;
 	padding-right: 28%;
 	color: #ffeedb;
-	font-size: 1.3em;
+	font-size: 20px;
 }
 
 section.seccionMenu{
