@@ -45,6 +45,7 @@ h2{
 .tablas{
 	text-align:left;
 	padding-top: 2.5%;
+    font-size: 20px;
 	border-collapse: collapse;
 }
 th,td{
@@ -65,12 +66,12 @@ section.seccionContacto{
 	width: 7%;
 }
 a{
-	font-size: 1.4em;
+	font-size: 30px;
 	text-decoration:none;
 	color: #ffeedb;
 }
 
-@media screen and (max-width: 1316px){
+@media screen and (max-width: 1620px){
 	.imgLogo{
 		width: 100%;
 	}
@@ -103,7 +104,7 @@ a{
 	}
 }
 
-@media screen and (max-width: 750px){
+@media screen and (max-width: 890px){
 	.imgLogo{
 		width: 100%;
 	}
