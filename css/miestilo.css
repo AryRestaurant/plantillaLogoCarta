@@ -19,8 +19,8 @@ section.seccionLogo{
 section.seccionMenu{
 	margin-top: 15%;
 	padding-top: 2.5%;
-	padding-left: 10%;
-	padding-right: 10%;
+	padding-left: 8%;
+	padding-right: 8%;
 	padding-bottom: 10%;
 	background-color: lightgrey;
 	overflow: hidden;
@@ -28,12 +28,12 @@ section.seccionMenu{
 .izq{
 	display: block;
 	float:left;
-	padding-left: 10%;
+	padding-left: 5%;
 }
 .der{
 	display: block;
 	float:right;
-	padding-right: 10%;
+    padding-right: 5%;
 }
 h2{
 	font-family: "Lucida Console", "Courier New", monospace;
