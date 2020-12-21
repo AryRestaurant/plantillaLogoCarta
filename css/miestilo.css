@@ -73,9 +73,11 @@ section.seccionContacto{>
 
 	.izq{
 		width: 100%;
+		float:center;
 	}
 
 	.der{
 		width: 100%;
+		float:center;
 	}
 }
