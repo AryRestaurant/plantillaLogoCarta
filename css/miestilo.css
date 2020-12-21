@@ -55,10 +55,8 @@ thead{
 }
 
 section.seccionContacto{>
-    border-bottom: none;
     padding: 2%;
     color: #ffeedb;
     text-align: center;
     font-size: 1.3em;
-    padding-left: 40%;
 }
