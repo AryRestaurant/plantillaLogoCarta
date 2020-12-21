@@ -1,0 +1,64 @@
+body {
+  background-color: #424949;
+  color: #424949;
+  font-style: "Lucida Console";
+}
+
+section.seccionLogo{
+	padding-top: 8%;
+	text-align:center;
+}
+#txtLogo{
+	padding-top: 2%;
+	padding-left: 28%;
+	padding-right: 28%;
+	color: #ffeedb;
+	font-size: 1.3em;
+}
+
+section.seccionMenu{
+	margin-top: 15%;
+	padding-top: 2.5%;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 10%;
+	background-color: lightgrey;
+	overflow: hidden;
+}
+.izq{
+	display: block;
+	float:left;
+	padding-left: 10%;
+}
+.der{
+	display: block;
+	float:right;
+	padding-right: 10%;
+}
+h2{
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-size: 3em;
+}
+.tablas{
+	text-align:left;
+	padding-top: 2.5%;
+	border-collapse: collapse;
+}
+th,td{
+	border-bottom: solid 2px #D2B48C;
+	padding:12px;
+}
+thead{
+	color: #A0522D;
+	font-size: 1.5em;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+section.seccionContacto{>
+    border-bottom: none;
+    padding: 2%;
+    color: #ffeedb;
+    text-align: center;
+    font-size: 1.3em;
+    padding-left: 40%;
+}
